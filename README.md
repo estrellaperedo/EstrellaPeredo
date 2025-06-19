@@ -1,6 +1,6 @@
 # 👋 Hola, soy Estrella Peredo
 
-🎓 Estudiante de Negocios y Tecnologías de la Información
+🎓 Estudiante de Negocios y Tecnologías de la Información   
 🏫 Escuela de la Producción y la Competitividad – Universidad Católica Boliviana “San Pablo”  
 📍 La Paz, Bolivia
 
